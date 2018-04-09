@@ -1,1 +1,1 @@
-![screenshot](SystemTrayIcon.png)
+![](systemtrayicon.png)
